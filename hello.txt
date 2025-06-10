@@ -1,6 +1,4 @@
 hello git!
 hello git!
-git
-git
-gtTs
-1111111
+hello git!
+111111111
